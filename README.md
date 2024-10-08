@@ -28,6 +28,7 @@
 
 # 통신을 위한 패킷 설계
 ![image](https://github.com/user-attachments/assets/f9373149-3384-4347-8a7d-d6a3cd9c694e)
+<img width="545" alt="하이퍼터미널사진" src="https://github.com/user-attachments/assets/154f78b4-779d-4294-900c-ab7207d95162">
 
 # APP 화면
 ![image](https://github.com/user-attachments/assets/b4d67199-8b25-440a-9bcd-803aec16fea5)
