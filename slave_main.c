@@ -2,7 +2,7 @@
  * DHT11_sensor.c
  *
  * Created: 2024-08-01 오후 4:48:41
- * Author : jiung
+ * Author : GeumChang
  */
 #define F_CPU 14745600UL  // CPU 클럭 주파수 정의
 #include <avr/io.h>
