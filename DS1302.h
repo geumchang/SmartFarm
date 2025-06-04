@@ -2,7 +2,7 @@
  * DS1302.h
  *
  * Created: 2024-09-21 오후 11:53:34
- *  Author: jiung
+ *  Author: GeumChang
  */ 
 
 
